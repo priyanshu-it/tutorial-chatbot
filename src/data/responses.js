@@ -85,7 +85,9 @@ export const responses = {
   ],
 
   develop: [
-    "Developer by Priyabshu.",
+    "Developer by Priyanshu.",
+    "Created by Priyanshu.",
+    "--> PRIYANSHU! ",
     "Reference: Geeks for Geeks.",
     "Technologies used: React.js, HTML, CSS, JavaScript."
   ],
